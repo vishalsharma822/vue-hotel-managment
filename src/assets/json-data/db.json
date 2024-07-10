@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "Vishal Sharma",
+      "email": "vishal.sharma@gmail.com",
+      "password": "1234",
+      "profileImage": "20211017_140013.jpg",
+      "id": 1
+    },
+    {
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma@gmmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "test test",
+      "email": "test@test.com",
+      "password": "1234",
+      "id": 3
+    }
+  ],
+  "hotels": [
+    {
+      "name": "hotel 1",
+      "address": "hotel addre",
+      "contact": "conat",
+      "id": 1
+    },
+    {
+      "name": "ergfd",
+      "address": "gdfgdg",
+      "contact": "dfg",
+      "id": 2
+    },
+    {
+      "name": "fdgdf",
+      "address": "gdf",
+      "contact": "gdfgd",
+      "id": 3
+    },
+    {
+      "name": "hhh",
+      "address": "hh",
+      "contact": "hhh",
+      "id": 4
+    }
+  ]
+}
